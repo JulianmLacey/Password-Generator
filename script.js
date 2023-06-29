@@ -35,7 +35,7 @@ var promptReqs = function () {
   //if none are included re-prompt the user, otherwise return the string
   if (req[0] != "y" && req[1] != "y" && req[2] != "y" && req[3] != "y") {
     window.alert("Atleast One Character Type Must Be Used");
-    return promptRequirements();
+    return promptReqs();
   }
 
   return req;
