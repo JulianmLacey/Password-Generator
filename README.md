@@ -28,7 +28,7 @@ The following image shows the web application's appearance and functionality:
 
 ## Live Demo
 
-A Live Demo Can be Found [Here](https://julianmlacey.github.io/Password\sGenerator/)
+A Live Demo Can be Found [Here](https://julianmlacey.github.io/Password-Generator/)
 
 ## License
 
